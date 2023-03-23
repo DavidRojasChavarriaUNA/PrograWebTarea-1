@@ -14,7 +14,7 @@ Armando Arce Orozco.
 Ciclo I 2023
 
 Repositorio
-	https://github.com/DavidRojasChavarriaUNA/ai-tarea3
+	https://github.com/DavidRojasChavarriaUNA/PrograWebTarea-1
 Sitio web
 Podrá acceder al sitio web de la tarea I en la siguiente dirección web:
 	http://tarea-i-davidrojas-prograweb2023.42web.io/
